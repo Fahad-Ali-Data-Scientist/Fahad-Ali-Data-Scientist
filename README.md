@@ -3,7 +3,7 @@
 **Applied AI Engineer** · LLMs & RAG · Document AI (OCR / KYC) · Computer Vision · Python Backend
 Lahore, Pakistan · Open to remote roles
 
-I build AI systems that run in production, not just in notebooks. For 3.5 years at [Machine Learning 1](https://ml1.ai/) I have taken models from prototype to production with Python and Django backends, PostgreSQL, Docker and cloud deployment.
+I build AI systems that run in production, not just in notebooks. For 3+ years at [Machine Learning 1](https://ml1.ai/) I have taken models from prototype to production with Python and Django backends, PostgreSQL, Docker and cloud deployment.
 
 ### Highlights from production work
 
